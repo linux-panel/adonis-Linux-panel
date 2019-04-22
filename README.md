@@ -1,4 +1,4 @@
-# Adonis API application
+# Linux Dashboard backend api
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
 
